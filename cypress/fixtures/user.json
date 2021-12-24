@@ -1,9 +1,9 @@
 {
-    "validEmail": "ivanar.bohoo@gmail.com",
-    "validPass": "boohoo123",
+    "validEmail": "***",
+    "validPass": "***",
     "welcomeMessage": "\nHello Ivana!\n",
     "invalidEmail": "ivana.bohoo@gmail.com",
-    "invalidPass": "boohoo12",
+    "invalidPass": "sdfghpoiuy",
     "loginPageTitle":"Log in to Your Account | SiteGenesis | 103.1.0 - controllers",
     "loginPageHeader": "\nMy Account\nLog In\n",
     "accountPageTitle": " My Account | SiteGenesis | 103.1.0 - controllers",
