@@ -1,0 +1,14 @@
+{
+    "defaultCommandTimeout": 15000,
+    "baseUrl": "https://uk-dwdev.boohoo.com/",
+    "viewportWidth": 1366,
+    "viewportHeight": 768,
+    "chromeWebSecurity": false,
+    "pageLoadTimeout": 80000,
+    "env": {
+        
+    },
+   
+    "trashAssetsBeforeRuns": false,
+    "experimentalSessionSupport": true
+}

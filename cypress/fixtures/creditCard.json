@@ -1,0 +1,10 @@
+{
+    "number": "5555 5555 5555 4444",
+    "owner": "Ivana Radovanovic",
+    "expirationDate": "0330",
+    "cvc": "737",
+
+    "invalidSavedCreditCard": "(MasterCard) ************5454 - Expiration 04.2023",
+    "transactionDeclinedMessage": "Transaction declined – please check your card details are correct and retry or select an alternative payment method.",
+    "validSavedCreditCard":"(MasterCard) ************4444 - Expiration 03.2030"
+}
